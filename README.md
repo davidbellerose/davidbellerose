@@ -33,7 +33,13 @@ I really enjoy creating full stack web applications based on relational database
 
 ### Featured Projects
 <img src="https://github.com/davidbellerose/davidbellerose/blob/main/blog03.png" />
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Go To Blog Website](https://david-bellerose-blog.up.railway.app/)
+
+
 <img src="https://github.com/davidbellerose/davidbellerose/blob/main/SymeTrak.png" />
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Go To Contact Manager Website](https://symetrak-asp-net.up.railway.app/)
 
 <!--
 **davidbellerose/davidbellerose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
