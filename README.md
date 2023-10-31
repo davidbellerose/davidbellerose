@@ -20,7 +20,7 @@ I really enjoy creating full stack web applications based on relational database
 
 ### Connect
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/#4285F4" />](https://davidbellerose.com/)
+<[img height="32" width="32" src="https://cdn.simpleicons.org/#4285F4" />](https://davidbellerose.com/)
 
 <!--
 **davidbellerose/davidbellerose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
