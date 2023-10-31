@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-![David's github stats](https://github-readme-stats.vercel.app/api?username=davidbellerose)
+I am David Bellerose and have made the transition into pursuing a career as a Full Stack Web Developer. I have completed the Coder Foundry self-paced course for the ASP.NET C# framework.
+I really enjoy creating full stack web applications based on relational databases using SQL. Please see below for my social links and my portfolio of projects.
+
 
 <!--
 **davidbellerose/davidbellerose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![David's github stats](https://github-readme-stats.vercel.app/api?username=davidbellerose)
 
 Here are some ideas to get you started:
 
