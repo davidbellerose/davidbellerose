@@ -26,7 +26,10 @@ I really enjoy creating full stack web applications based on relational database
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DavidEBellerose) Twitter
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://davidbellerose.com/) Portfolio
 
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/DavidEBellerose)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/david-bellerose/)
+
+
 
 ### Featured Projects
 <img src="https://github.com/davidbellerose/davidbellerose/blob/main/blog03.png" />
