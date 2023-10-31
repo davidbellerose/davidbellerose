@@ -1,4 +1,4 @@
-![](https://github.com/davidbellerose/davidbellerose/blob/main/linkedinbanner.jpg)
+![David Bellerose Full Stack Web Developer](https://github.com/davidbellerose/davidbellerose/blob/main/linkedinbanner.jpg)
 
 
 I am David Bellerose and have made the transition into pursuing a career as a Full Stack Web Developer. I have completed the Coder Foundry self-paced course for the ASP.NET C# framework.
