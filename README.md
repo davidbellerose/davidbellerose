@@ -5,6 +5,7 @@ I am David Bellerose and have made the transition into pursuing a career as a Fu
 I really enjoy creating full stack web applications based on relational databases using SQL. Please see below for my social links and my portfolio of projects.
 
 ### Skills
+---
 <img src="https://github.com/davidbellerose/davidbellerose/blob/main/skills.png" />
 
 
