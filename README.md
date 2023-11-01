@@ -10,7 +10,7 @@ I really enjoy creating full stack web applications based on relational database
 
 
 ### Connect
-
+---
  📫 [Contact Me](https://external.ink?to=https://www.davidbellerose.com/)
  
  💼 [Portfolio](https://external.ink?to=https://www.davidbellerose.com)
@@ -22,7 +22,7 @@ I really enjoy creating full stack web applications based on relational database
 
 
 ## Featured Projects
-
+---
 ### Blog Application
 <img src="https://github.com/davidbellerose/davidbellerose/blob/main/blog03.png" />
 
@@ -30,6 +30,7 @@ I really enjoy creating full stack web applications based on relational database
 
 &nbsp;<br>&nbsp;<br>&nbsp;<br>
 
+---
 ### Contact Manager Application
 <img src="https://github.com/davidbellerose/davidbellerose/blob/main/SymeTrak.png" />
 
