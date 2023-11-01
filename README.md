@@ -3,7 +3,7 @@
 
 I am David Bellerose and have made the transition into pursuing a career as a Full Stack Web Developer. I have completed the Coder Foundry self-paced course for the ASP.NET C# framework.
 I really enjoy creating full stack web applications based on relational databases using SQL. Please see below for my social links and my portfolio of projects.
-
+&nbsp;<br>&nbsp;<br>&nbsp;<br>
 ### Skills
 ---
 <img src="https://github.com/davidbellerose/davidbellerose/blob/main/skills.png" />
