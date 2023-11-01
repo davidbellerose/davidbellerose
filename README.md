@@ -5,18 +5,7 @@ I am David Bellerose and have made the transition into pursuing a career as a Fu
 I really enjoy creating full stack web applications based on relational databases using SQL. Please see below for my social links and my portfolio of projects.
 
 ### Skills
-
-* ![.NET}](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge)
-* ![C Sharp}](https://img.shields.io/badge/c_sharp-239120?style=for-the-badge&logo=csharp)
-* ![Javascript}](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript)
-* ![html5}](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5)
-* ![CSS3}](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
-* ![sass}](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass)
-* ![Bootstrap}](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-* ![Railway}](https://img.shields.io/badge/railway-0B0D0E?style=for-the-badge&logo=railway)
-* ![Inkscape}](https://img.shields.io/badge/inkscape-000000?style=for-the-badge&logo=inkscape)
-* ![Blender}](https://img.shields.io/badge/blender-5c5543?style=for-the-badge&logo=blender)
-* ![Gimp}](https://img.shields.io/badge/GIMP-5c5543?style=for-the-badge&logo=GIMP)
+<img src="https://github.com/davidbellerose/davidbellerose/blob/main/skills.png" />
 
 
 ### Connect
