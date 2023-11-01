@@ -7,7 +7,7 @@ I really enjoy creating full stack web applications based on relational database
 ### Skills
 ---
 <img src="https://github.com/davidbellerose/davidbellerose/blob/main/skills.png" />
-
+&nbsp;<br>&nbsp;<br>&nbsp;<br>
 
 ### Connect
 ---
@@ -19,7 +19,7 @@ I really enjoy creating full stack web applications based on relational database
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/david-bellerose/)
 
-
+&nbsp;<br>&nbsp;<br>&nbsp;<br>
 
 ## Featured Projects
 ---
